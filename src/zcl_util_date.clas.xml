@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+    <LANGU>S</LANGU>
+    <DESCRIPT>Util - Fechas y Calendario</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>ADD_MONTH_2_DATE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Añadir meses a un fecha</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>CS_MASK</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Mascaras formato fecha</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>DAY_IN_WEEK</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Nº de día de la semana</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>DAY_IN_YEAR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Nº de día del año</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>DAY_NAMES</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Nombres de días</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>DIF_MONTH_2_DATE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Quitar meses a un fecha</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>FORMAT_DATE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Formato fecha</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>IS_WEEKEND</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Es fin de semana?</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>MONTH_NAMES</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Nombres de meses</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>TEXT_DATE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Fecha en texto</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>TTY_DAY_NAME</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Nombres de días</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>TTY_MONTH_NAME</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Nombres de meses</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_DATE</CLSNAME>
+     <CMPNAME>WEEK_DATE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Nº de semana para un fecha</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
